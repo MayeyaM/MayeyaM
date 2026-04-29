@@ -1,6 +1,7 @@
 # 💫 About Me:
-Working on NLP and systematic trading
+Working on NLP and systematic trading.
 
+MSc in Applied Mathematics at EPFL, focus on statistics, especially time series.
 Used to work in C++, but moved to Python. Interests in Rust.
 
 
