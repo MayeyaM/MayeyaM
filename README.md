@@ -1,7 +1,8 @@
 # 💫 About Me:
 Interests: Mathematical statistics, machine learning for time series & dynamical systems, systematic trading, resource-efficient model deployments.
 
-Academics: MSc in Applied Mathematics at EPFL, focus on statistics. Deep interests in time series analysis and forecasting.
+Academics: MSc in Applied Mathematics @ EPFL, focus on statistics and statistical ML. BSc in mathematics @ EPFL, focus on probability theory and stochastic processes.
+
 Languages: Used to work in C++, but moved to Python. Interests in Rust.
 
 Worked as full stack NLP engineer
